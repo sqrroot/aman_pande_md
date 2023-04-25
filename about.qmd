@@ -1,0 +1,20 @@
+---
+title: "About Dr Pande"
+image: IMG_0325.jpeg
+about:
+  template: jolla
+  links:
+    - icon: pubmed
+      text: PubMed
+      href: https://pubmed.ncbi.nlm.nih.gov/?term=aman+pande
+    - icon: RG
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Aman-Pande-2
+    - icon: ABIM
+      text: ABIM certifications
+      href: https://www.abim.org/verify-physician.aspx?type=id&id=261752
+---
+
+Aman Pande, MD, is a Staff Physician in the Department of Pulmonary Medicine at the Respiratory Institute. He is also an Assistant Professor of Medicine at the Cleveland Clinic Lerner College of Medicine. His chief clinical and research interest is in the field of Interstitial Lung Disease, including IPF, Hypersensitivity Pneumonitis and lung diseases associated with autoimmune conditions. He also has expertise in the management of Pulmonary and extra-pulmonary Sarcoidosis.
+
+He is board certified in Internal Medicine, Pulmonary Diseases and Critical Care

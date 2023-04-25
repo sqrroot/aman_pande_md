@@ -1,0 +1,25 @@
+---
+title: "The Cleveland Clinic"
+subtitle: Respiratory Institute
+image: CCFMC.jpg
+about:
+  template: marquee
+---
+
+Joined in 2011
+
+**Cleveland Clinic Staff Profile**
+
+<https://my.clevelandclinic.org/staff/16356-aman-pande>
+
+**CCF Intro Video**
+
+<https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/2207941/uiconf_id/37292221/entry_id/1_mj2tcid2/embed/dynamic>
+
+**Interstitial Lung Disease**
+
+<https://my.clevelandclinic.org/departments/respiratory/depts/interstitial-lung-disease?dFR[searchCollections][0]=233#overview-tab>
+
+**Virtual Second Opinion from Dr Pande:**
+
+<https://my.clevelandclinic.org/online-services/virtual-second-opinions>

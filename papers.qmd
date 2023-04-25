@@ -1,0 +1,21 @@
+---
+title: "Publications"
+image: Library2.jpeg
+about:
+  template: trestles
+  
+---
+
+**Selected Publications**
+
+Pande A. Exploring the Lung-Gut Nexus. Chest. 2022 Dec;162(6):1229-1230
+
+Grewal US, Pande A. Rituximab Rescue in Treatment Refractory Hypersensitivity Pneumonitis. Am J Ther. 2022 Apr 14.
+
+Noh S, Yadav R, Li M, Wang X, Sahoo D, Culver DA, Pande A. Use of leflunomide in patients with chronic hypersensitivity pneumonitis. BMC Pulm Med. 2020 Jul 21;20(1)
+
+Pande A, Culver DA. Knowing when to use steroids, immunosuppressants or biologics for the treatment of sarcoidosis. Expert Rev Respir Med. 2020 Mar;14(3):285-298
+
+A full list can be found on Pubmed at <https://pubmed.ncbi.nlm.nih.gov/?term=aman+pande&show_snippets=off&sort=pubdate>
+
+Ongoing Clinical trials at the Respiratory Institute: <https://my.clevelandclinic.org/departments/respiratory/clinical-trials>
